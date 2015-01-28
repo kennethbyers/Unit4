@@ -1,0 +1,52 @@
+body {
+	background-image: url(images/sandwich.jpg);
+	background-repeat: repeat-x, no-repeat;
+	background-size: cover; 
+	border: 0;
+	color: black;
+	font-size: 18px;
+	margin-left: 80px;
+	margin-top: 500px;
+	}
+
+.headline {
+	position: absolute; right: 205px; bottom: 340px;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+	font-weight: 700; 
+	font-size: 300%;
+	color: #B22222;
+	margin-top: auto;
+	margin-bottom: auto;
+	line-height: 200%;
+	}
+
+
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400; 
+	margin-right: 100;
+}
+
+.subhead {
+	position: absolute; right: 75px; bottom: 200px;
+}
+
+p {
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	margin-left: 0px;
+	margin-top: 0px;
+	color: black;
+
+}
+
+hr {
+	border-color: #F18181;
+	width: 100px;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 5px;
+}
